@@ -1,0 +1,27 @@
+/run/initialize
+
+
+/gun/particle proton
+/gun/energy 10 keV
+/analysis/h1/setAscii 1
+/analysis/h1/setAscii 2
+/analysis/h1/setAscii 3
+/run/beamOn 10000
+
+#/gun/energy 30 keV
+#/run/beamOn 10000
+
+#/gun/energy 50 keV
+#/run/beamOn 10000
+
+#/gun/energy 100 keV
+#/run/beamOn 10000
+
+#/gun/energy 200 keV
+#/run/beamOn 10000
+
+#/gun/energy 300 keV
+#/run/beamOn 10000
+
+#/gun/energy 500 keV
+#/run/beamOn 10000
